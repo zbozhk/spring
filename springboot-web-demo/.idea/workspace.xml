@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bbe6316-1a5f-4ffb-a572-c9f569b5ec5c" name="Default" comment="springboot 学习demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="350" />
+    <option name="y" value="7" />
+    <option name="width" value="1575" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectId" id="1p0h5LmB2HMd6TwsDUrfn1ZWaCn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2781655" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\resources" />
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\resources\banner" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiangxue.jpa" />
+      <recent name="com.xiangxue.atomikos.test" />
+      <recent name="com.xiangxue.atomikos" />
+      <recent name="com.xiangxue.atomikos.db2.dao" />
+      <recent name="com.xiangxue.atomikos.db1.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\resources" />
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\java\com\xiangxue\atomikos\service" />
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\resources\templates" />
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main" />
+      <recent name="D:\workspace\zg_school\spring-boot-web\src\main\java\com\xiangxue\jack" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.atomikos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiangxue.atomikos.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.atomikos.test.MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.jack.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiangxue.jack.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.jack.test.MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.jack.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiangxue.jack.start.SpringbootTest" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyTest.test1" />
+      <item itemvalue="JUnit.MyTest.test1 (1)" />
+      <item itemvalue="Spring Boot.SpringbootTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringbootTest" />
+        <item itemvalue="JUnit.MyTest.test1" />
+        <item itemvalue="JUnit.MyTest.test1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bbe6316-1a5f-4ffb-a572-c9f569b5ec5c" name="Default" comment="" />
+      <created>1581084247580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581084247580</updated>
+      <workItem from="1581084251161" duration="33192000" />
+      <workItem from="1581255777388" duration="41155000" />
+      <workItem from="1581512865660" duration="612000" />
+      <workItem from="1581584809369" duration="33000" />
+      <workItem from="1581584853953" duration="204000" />
+      <workItem from="1581595220444" duration="5111000" />
+      <workItem from="1614325733528" duration="1338000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1581085923505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581085923505</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1581226352426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581226352426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="springboot 学习demo">
+      <created>1581595363932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581595363932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_test6 - 2020.02.10 at 21h 26m 58s.xml">
+      <configuration name="MyTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1_(1) - 2020.02.11 at 15h 48m 14s.xml">
+      <configuration name="MyTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1_(1) - 2020.02.11 at 15h 55m 31s.xml">
+      <configuration name="MyTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1_(1) - 2020.02.11 at 15h 57m 21s.xml">
+      <configuration name="MyTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 03m 26s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 06m 51s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 09m 18s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 09m 38s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 12m 45s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.11 at 16h 13m 15s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="springboot 学习demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot 学习demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/RedisCacheConfiguration.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/SimpleCacheConfiguration.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiangxue/atomikos/test/MyTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2781655" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2781655" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
